@@ -12,7 +12,7 @@ Pewlett Hackard is a large organization with over 300,000 employees. Leadership 
 * There are 1,940 employees who were born in 1965 and are eligibile for mentorship. This was determined using the code in Figure 2
 
 #### Figure 2
-![mentorship_eligibility.png](mentorship_eligibility.png)
+![Mentorship_eligibility.png](Mentorship_eligibility.png)
 
 
 ### Summary
